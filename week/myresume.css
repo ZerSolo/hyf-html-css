@@ -1,0 +1,151 @@
+
+       
+
+        h2 {
+            border-top: 2px solid blue;
+            padding-top: 5px;
+            margin-top: 20px;
+            font-family: cursive
+        }
+        
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            border: 2px solid red;
+        }
+        
+        #profile_pic {
+        
+            width:40px;
+            height: 180px;
+            margin: 10px;
+            margin-left: 20px;
+            float: right;
+            width: 25%;
+            border: 3px solid red;
+            border-radius: 50%;
+        }
+        
+        #profile {
+            clear: both;
+            padding: 10px;
+            background-color: rgb(43, 43, 71);
+            color: white;
+            text-align: justify;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        
+        .first-column {
+            float: left;
+            width: 65%
+        }
+        
+        
+        .second-column {
+            float: right;
+            width: 30%
+        }
+        
+        #name {
+            color: aliceblue;
+            font-family: cursive;
+            font-size: 30px;
+        }
+        
+        #personal-info {
+            background-color: black;
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+            background: grey;
+            text-align: center;
+        }
+        
+        .li1 {
+            display: inline;
+            color: aliceblue;
+            font-family: cursive;
+            font-size: 1.3em;
+            margin: 30px;
+            padding:5px;
+        }
+        
+        .time-place {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 30px;
+            grid-gap: 20px;
+            color: blue;
+           
+        }
+      
+       
+
+        h2 {
+            border-top: 2px solid blue;
+            padding-top: 5px;
+            margin-top: 20px;
+            font-family: cursive
+        }
+        
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            border: 2px solid red;
+        }
+        
+        #profile_pic {
+        
+            width:30px;
+            height: 180px;
+            margin: 10px;
+            margin-left: 20px;
+            float: right;
+            width: 25%;
+            border: 3px solid red;
+            border-radius: 50%;
+        }
+        
+        #profile {
+            clear: both;
+            padding: 10px;
+            background-color: rgb(43, 43, 71);
+            color: white;
+            text-align: justify;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        
+        .first-column {
+            float: left;
+            width: 65%
+        }
+        
+        
+        .second-column {
+            float: right;
+            width: 30%
+        }
+        
+        #name {
+            color: aliceblue;
+            font-family: cursive;
+            font-size: 30px;
+        }
+        
+        #personal-info {
+            background-color: black;
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+            background: grey;
+            text-align: center;
+        }
+        
+        .time-place {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 30px;
+            grid-gap: 20px;
+            color: blue;
+        }
+        
