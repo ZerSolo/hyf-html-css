@@ -1,0 +1,123 @@
+
+body {
+  background-color:rgb(136, 164, 190);}
+
+h1{
+ border:5px groove red;
+ border-top:10px groove red;
+ border-bottom:10px groove red;
+ font-family:monospace; 
+  color:white;
+  font-size:50px;
+  text-align:center;
+
+}
+   
+h2{
+  color:yellow;
+}
+
+#flag1
+{ 
+  width:150px;
+  height:50px;
+  position:absolute;
+  left:20px;
+  top:22px;
+}
+#flag2
+{
+  width:150px;
+  height:50px;
+  position:absolute;
+  right:20px;
+  top:22px;
+}
+#get-started{
+  color:white;
+  font-size:1.1em;
+  background:red;
+}
+a:hover{
+      color:purple;
+      text-decoration:none;}
+.menu{
+   list-style-type:none;
+   margin:0px;
+   padding:0px;
+  }
+.li1{
+   display:inline;
+   font-family:cursive;
+   font-size:40px;
+   margin:20px;}
+
+.asmara-images {
+   width:450px;
+   height:200px;
+   border:5px groove red;}
+
+.group-images {
+   border-bottom:2px dotted black;
+   margin-bottom:5px;}
+.image{
+   width:450px;
+   height:200px;
+   border:5px groove green;
+   margin:10px;
+   margin-left:30%;
+   
+}
+td{
+   background:grey;
+   font-family:sanis;
+   font-size:1.1em;
+   
+}
+.column1{
+   background:yellow;
+}
+
+table{
+   float:left;
+   width:50%;
+}
+ol{
+   float:right; 
+   width:40%;
+   margin-left:2px;
+   line-height:30px;
+   background-color:grey;
+   font-size: 1.2em;
+}
+h2{
+  color:white;
+  background:red;
+  font-size:2em;
+}
+
+#video1{
+  position:absolute;
+  top:2650px;
+  left:50%;
+  width:500px;
+  height:350px;
+  border:5px solid red;
+  margin:15px;
+}
+#video2{
+  position:absolute;
+  top:2650px;
+  right:60%;
+  width:500px;
+  height:350px;
+  border:5px solid red;
+  margin:15px;
+}
+#footer{
+  clear:both;
+  position:absolute;
+  top:3000px;
+  font-size:1.5em;
+  color:yellow;
+}
