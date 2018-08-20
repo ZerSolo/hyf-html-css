@@ -6,13 +6,10 @@
             font-size: 16px;
          
         }
-     
-        .bg-img { 
-            background-image: url("bg.jpg");
-            height: 100%; 
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
+        h1 {
+            color: aliceblue;
+            font-family: cursive;
+            font-size: 30px;
         }
         
         h2 {
@@ -21,10 +18,20 @@
             margin-top: 20px;
             font-family: cursive
         }
-        #profile_pic {
+        .bg-img { 
+            background-image: url("./image/bg.jpg");
+            height: 100%; 
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .material-icons{
+            font-size: 30px;
+            margin-right:10px;
+        }
         
-            width:20px;
-            height: 150px;
+        #profile_pic {
+            width: 120px;
             margin: 10px;
             margin-left: 20px;
             float: right;
@@ -44,31 +51,18 @@
             border:3px solid rgb(131, 33, 33);
         }
         
-        .first-column {
+        main {
             float: left;
             width: 65%
         }
         
         
-        .second-column {
+        aside {
             float: right;
             width: 30%
         }
         
-        #name {
-            color: aliceblue;
-            font-family: cursive;
-            font-size: 30px;
-        }
         
-        #Menu{
-            display: inline;
-            list-style-type: none;
-            margin: 25px;
-            margin-right: 50px;
-            padding: 10px;
-            background-color: grey;
-        }
         #personal-info{
             list-style-type:none;
             margin: 10px;
@@ -102,7 +96,7 @@
             color:blue;
            
         }
-        #footer{
+        footer{
             clear: both;
             margin-bottom: 20px;
             font-size :1.1em;
